@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/michalCakes/static/css/main.ab37feed.css",
-    "main.js": "/michalCakes/static/js/main.17ba2411.js",
+    "main.js": "/michalCakes/static/js/main.8a1815fd.js",
     "static/js/787.ee19134f.chunk.js": "/michalCakes/static/js/787.ee19134f.chunk.js",
     "static/media/Banana_Cake.jpeg": "/michalCakes/static/media/Banana_Cake.db5890a41cad5565fa73.jpeg",
     "static/media/Shmarim_Cake(2).jpeg": "/michalCakes/static/media/Shmarim_Cake(2).ef3c5dfafd44a790d550.jpeg",
@@ -14,11 +14,11 @@
     "static/media/letter-m(1).png": "/michalCakes/static/media/letter-m(1).519f90dcafb10672f9ec.png",
     "index.html": "/michalCakes/index.html",
     "main.ab37feed.css.map": "/michalCakes/static/css/main.ab37feed.css.map",
-    "main.17ba2411.js.map": "/michalCakes/static/js/main.17ba2411.js.map",
+    "main.8a1815fd.js.map": "/michalCakes/static/js/main.8a1815fd.js.map",
     "787.ee19134f.chunk.js.map": "/michalCakes/static/js/787.ee19134f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab37feed.css",
-    "static/js/main.17ba2411.js"
+    "static/js/main.8a1815fd.js"
   ]
 }
