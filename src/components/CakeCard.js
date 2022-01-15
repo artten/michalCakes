@@ -2,6 +2,7 @@
 import { Button,Card } from 'react-bootstrap';
 
 const CakeCard = ({name,price,pic}) => {
+    console.log(pic)
     return (
       <Card className='text-center' style={{ width: '18rem' }}>
         <Card.Img variant="top" src={pic}/>

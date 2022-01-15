@@ -1,0 +1,43 @@
+
+[
+    {
+        "name": "Banana Cake",
+        "price": "15",
+        "image": "images/Banana_Cake.jpeg"
+    },
+    {
+        "name": "O Letter Cake",
+        "price": "7.5",
+        "image": "images/O_Letter_Cake.jpeg"
+    },
+    {
+        "name": "E Letter Cake",
+        "price": "8.5",
+        "image": "images/E_Letter_Cake.jpeg"
+    },
+    {
+        "name": "A Letter Cake",
+        "price": "9.5",
+        "image": "images/A_Letter_Cake.jpeg"
+    },
+    {
+        "name": "Strawberry Cake",
+        "price": "20",
+        "image": "images/Strawberry_Cake.jpeg"
+    },
+    {
+        "name": "Honey Moon Cake",
+        "price": "14",
+        "image": "images/Honey_Moon_Cake.jpeg"
+    },
+    {
+        "name": "Shmarim Cake",
+        "price": "7",
+        "image": "images/Shmarim_Cake.jpeg"
+    },
+    {
+        "name": "Shmarim Cake 2",
+        "price": "12",
+        "image": "images/Shmarim_Cake(2).jpeg"
+    }
+]
