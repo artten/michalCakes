@@ -1,24 +1,17 @@
 {
   "files": {
     "main.css": "/michalCakes/static/css/main.ab37feed.css",
-    "main.js": "/michalCakes/static/js/main.8a1815fd.js",
+    "main.js": "/michalCakes/static/js/main.4d7fba69.js",
     "static/js/787.ee19134f.chunk.js": "/michalCakes/static/js/787.ee19134f.chunk.js",
     "static/media/Banana_Cake.jpeg": "/michalCakes/static/media/Banana_Cake.db5890a41cad5565fa73.jpeg",
-    "static/media/Shmarim_Cake(2).jpeg": "/michalCakes/static/media/Shmarim_Cake(2).ef3c5dfafd44a790d550.jpeg",
-    "static/media/Shmarim_Cake.jpeg": "/michalCakes/static/media/Shmarim_Cake.5839d6b0f44ae1658a42.jpeg",
-    "static/media/Strawberry_Cake.jpeg": "/michalCakes/static/media/Strawberry_Cake.022065d5063c6b551eb1.jpeg",
-    "static/media/A_Leter_Cake.jpeg": "/michalCakes/static/media/A_Leter_Cake.8c9630234faab57d9a3b.jpeg",
-    "static/media/O_Leter_Cake.jpeg": "/michalCakes/static/media/O_Leter_Cake.e0cac9c0ad53b9f94030.jpeg",
-    "static/media/Honey_Moon_Cake.jpeg": "/michalCakes/static/media/Honey_Moon_Cake.0d4a7ab6480a27f5d916.jpeg",
-    "static/media/E_Leter_Cake.jpeg": "/michalCakes/static/media/E_Leter_Cake.7bebf1a209bc4360283d.jpeg",
     "static/media/letter-m(1).png": "/michalCakes/static/media/letter-m(1).519f90dcafb10672f9ec.png",
     "index.html": "/michalCakes/index.html",
     "main.ab37feed.css.map": "/michalCakes/static/css/main.ab37feed.css.map",
-    "main.8a1815fd.js.map": "/michalCakes/static/js/main.8a1815fd.js.map",
+    "main.4d7fba69.js.map": "/michalCakes/static/js/main.4d7fba69.js.map",
     "787.ee19134f.chunk.js.map": "/michalCakes/static/js/787.ee19134f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab37feed.css",
-    "static/js/main.8a1815fd.js"
+    "static/js/main.4d7fba69.js"
   ]
 }
