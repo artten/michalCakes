@@ -1,5 +1,4 @@
 
-import Header from './Header';
 import CakeCard from './CakeCard';
 import CakesDB from "../CakesDatabase.json"
 

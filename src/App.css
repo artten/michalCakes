@@ -1,10 +1,7 @@
-Card {
 
+.logo {
+  text-align: center;
 }
-#space {
-    height: 2em;
-}
-
 .space {
     height: 59px;
 }
@@ -13,6 +10,46 @@ Card {
     display: flex;
     flex-wrap: wrap;
 }
+
+.center-navbar {
+  text-align: center;
+  width: 100%;
+}
+
+.center-navbar .navbar {
+  display: inline-block;
+  
+}
+.navbar {
+  width: auto;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flex-phone {
+  background-color: #f1f1f1;
+  padding: 10px;
+  flex: 33%;
+}
+
+.flex-instagram {
+  background-color: #f1f1f1;
+  padding: 10px;
+  flex: 33%;
+}
+
+.flex-gmail {
+  background-color: #f1f1f1;
+  padding: 10px;
+  flex: 33%;
+}
+
+
 
 .card {
     flex: 33%;
