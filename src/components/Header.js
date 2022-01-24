@@ -38,14 +38,14 @@ const Header = () => {
         >
           <ul className="nav justify-content-center">
             <li className="nav-item">
-              <a className="nav-link active" href="/Home">
+              <a className="nav-link active" href="/michalCakes/#/Home">
                 <button type="button" className="btn btn-primary btn-lg">
                   Gallery
                 </button>
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/BuyPage">
+              <a className="nav-link" href="/michalCakes/#/BuyPage">
                 <button type="button" className="btn btn-primary btn-lg">
                   Shop
                 </button>
