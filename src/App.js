@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Router>
         <div>
           <Routes>
             <Route exact path="/" element={<Home />} />
@@ -18,7 +17,6 @@ function App() {
             <Route path="/BuyPage" element={<BuyPage />}></Route>
           </Routes>
         </div>
-      </Router>
       <Footer/>
     </div>
   );

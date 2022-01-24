@@ -5,9 +5,6 @@ import logo from "../images/logo.jpeg";
 import { styled } from "@mui/material/styles";
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
-import { Navbar, Nav, Container, Row, Col, NavItem } from "react-bootstrap";
-import { LinkContainer } from "react-router-bootstrap";
-import Button from "react-bootstrap/Button";
 
 const Img = styled("img")({
   margin: "auto",

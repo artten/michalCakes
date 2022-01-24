@@ -1,8 +1,5 @@
 import React from "react";
 import "react-image-gallery/styles/css/image-gallery.css";
-import ImageGallery from "react-image-gallery";
-import Banana_Cake from "../images/Banana_Cake.jpeg";
-import Honey_Moon from "../images/Honey_Moon_Cake.jpeg";
 import "../App.css";
 import CakePic from "./CakePic";
 import CakesDB from "../CakesDatabase.json";
