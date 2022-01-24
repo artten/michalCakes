@@ -1,18 +1,16 @@
 {
   "files": {
     "main.css": "/michalCakes/static/css/main.9dd646e1.css",
-    "main.js": "/michalCakes/static/js/main.ae65489c.js",
+    "main.js": "/michalCakes/static/js/main.e6ba020e.js",
     "static/js/787.ee19134f.chunk.js": "/michalCakes/static/js/787.ee19134f.chunk.js",
-    "static/media/Banana_Cake.jpeg": "/michalCakes/static/media/Banana_Cake.db5890a41cad5565fa73.jpeg",
-    "static/media/Honey_Moon_Cake.jpeg": "/michalCakes/static/media/Honey_Moon_Cake.0d4a7ab6480a27f5d916.jpeg",
     "static/media/logo.jpeg": "/michalCakes/static/media/logo.cdfa2318f62cc2fed265.jpeg",
     "index.html": "/michalCakes/index.html",
     "main.9dd646e1.css.map": "/michalCakes/static/css/main.9dd646e1.css.map",
-    "main.ae65489c.js.map": "/michalCakes/static/js/main.ae65489c.js.map",
+    "main.e6ba020e.js.map": "/michalCakes/static/js/main.e6ba020e.js.map",
     "787.ee19134f.chunk.js.map": "/michalCakes/static/js/787.ee19134f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd646e1.css",
-    "static/js/main.ae65489c.js"
+    "static/js/main.e6ba020e.js"
   ]
 }
