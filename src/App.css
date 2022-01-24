@@ -54,7 +54,7 @@
 .card {
     flex: 33%;
     margin: auto;
-    background-color: #AAA ;
+    background-color: #f1f1f1;
   }
 
 .card-img-top {
@@ -63,16 +63,47 @@
     object-fit: cover;
 }
 
-@media screen and (max-width: 700px) {
+
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2% ;
+    padding-left: 5%;
+    padding-right: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: center;
+    
+  }
+
+  .galleryPicture {
+    width: 20%;
+    height: 50vh;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    
+  }
+
+  .galleryPicture img{
+    width: 32.5vh;
+    height: 50vh;
+  }
+
+  @media screen and (max-width: 700px) {
     .card {
         flex: 100%;
         margin: auto;
-        background-color: #AAA ;
+        background-color: #f1f1f1;
       }
       .card-img-top {
         width: 100%;
         height: 55vw;
         object-fit: cover;
+    }
+
+    .galleryPicture {
+      width: 100%;
     }
   }
 
@@ -81,11 +112,18 @@
     .card {
         flex: 50%;
         margin: auto;
-        background-color: #AAA ;
+        background-color: #f1f1f1;
       }
       .card-img-top {
         width: 100%;
         height: 40vw;
         object-fit: cover;
     }
+
+    .galleryPicture {
+      width: 40%;
+  
+    }
   }
+
+

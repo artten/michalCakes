@@ -1,20 +1,27 @@
 import React from "react";
 import "react-image-gallery/styles/css/image-gallery.css";
 import ImageGallery from "react-image-gallery";
+import Banana_Cake from "../images/Banana_Cake.jpeg";
+import Honey_Moon from "../images/Honey_Moon_Cake.jpeg";
+import "../App.css";
+import CakePic from "./CakePic";
+import CakesDB from "../CakesDatabase.json";
 
 const Home = () => {
-  const images = [
-    {
-      original: 'https://picsum.photos/id/1018/1000/600/',
-      thumbnail: 'https://picsum.photos/id/1018/250/150/',
-    },
-  ];
+  return (
+    // <div className="gallery">
+    //   <ImageGallery items={images} />
+    // </div>
 
-  return(
-    <>
-    <ImageGallery items={images} />
-    </>
-  )
+    <div className="gallery">
+      {CakesDB &&
+        CakesDB.map((item) => (
+          <div key={item.id} className="galleryPicture">
+            <CakePic pic={process.env.PUBLIC_URL + "/" + item.image} />
+          </div>
+        ))}
+    </div>
+  );
 };
 
 export default Home;
