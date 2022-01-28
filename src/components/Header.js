@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 //import logo from '../images/letter-m(1).png';
-import logo from "../images/logo.jpeg";
+import logo from "../images/Logov2(2).jpeg";
 import { styled } from "@mui/material/styles";
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
@@ -26,7 +26,7 @@ const Header = () => {
     <div>
       {/* <Grid container> */}
       <Grid item xs={12}>
-        <Img src={logo}></Img>
+        <Img style={{"height":"80vh", "width":"50vh"}} src={logo}></Img>
       </Grid>
       {/* <Grid container  xs={12} justifyContent="space-evenly" direction="row" alignItems="center"> */}
       <div className="center-navbar">

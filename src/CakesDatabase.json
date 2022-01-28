@@ -52,7 +52,7 @@
         "name": "Brownies",
         "price": "12",
         "image": "images/Brownies.jpeg",
-        "shop": "False"
+        "shop": "True"
     },
     {
         "name": "Brownies 2",
@@ -64,7 +64,7 @@
         "name": "Brownies 3",
         "price": "12",
         "image": "images/Brownies3.jpeg",
-        "shop": "False"
+        "shop": "True"
     },
     {
         "name": "Brownies 4",
@@ -76,13 +76,13 @@
         "name": "Cookeis",
         "price": "12",
         "image": "images/Cookies.jpeg",
-        "shop": "False"
+        "shop": "True"
     },
     {
         "name": "Birthday Cake",
         "price": "12",
         "image": "images/HB_Cake.jpeg",
-        "shop": "False"
+        "shop": "True"
     }
     
 ]
