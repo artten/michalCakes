@@ -3,41 +3,86 @@
     {
         "name": "Banana Cake",
         "price": "15",
-        "image": "images/Banana_Cake.jpeg"
+        "image": "images/Banana_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "O Letter Cake",
         "price": "7.5",
-        "image": "images/O_Letter_Cake.jpeg"
+        "image": "images/O_Letter_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "E Letter Cake",
         "price": "8.5",
-        "image": "images/E_Letter_Cake.jpeg"
+        "image": "images/E_Letter_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "A Letter Cake",
         "price": "9.5",
-        "image": "images/A_Letter_Cake.jpeg"
+        "image": "images/A_Letter_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "Strawberry Cake",
         "price": "20",
-        "image": "images/Strawberry_Cake.jpeg"
+        "image": "images/Strawberry_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "Honey Moon Cake",
         "price": "14",
-        "image": "images/Honey_Moon_Cake.jpeg"
+        "image": "images/Honey_Moon_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "Shmarim Cake",
         "price": "7",
-        "image": "images/Shmarim_Cake.jpeg"
+        "image": "images/Shmarim_Cake.jpeg",
+        "shop": "True"
     },
     {
         "name": "Shmarim Cake 2",
         "price": "12",
-        "image": "images/Shmarim_Cake(2).jpeg"
+        "image": "images/Shmarim_Cake(2).jpeg",
+        "shop": "False"
+    },
+    {
+        "name": "Brownies",
+        "price": "12",
+        "image": "images/Brownies.jpeg",
+        "shop": "False"
+    },
+    {
+        "name": "Brownies 2",
+        "price": "12",
+        "image": "images/Brownies2.jpeg",
+        "shop": "False"
+    },
+    {
+        "name": "Brownies 3",
+        "price": "12",
+        "image": "images/Brownies3.jpeg",
+        "shop": "False"
+    },
+    {
+        "name": "Brownies 4",
+        "price": "12",
+        "image": "images/Brownies4.jpeg",
+        "shop": "False"
+    },
+    {
+        "name": "Cookeis",
+        "price": "12",
+        "image": "images/Cookies.jpeg",
+        "shop": "False"
+    },
+    {
+        "name": "Birthday Cake",
+        "price": "12",
+        "image": "images/HB_Cake.jpeg",
+        "shop": "False"
     }
+    
 ]
