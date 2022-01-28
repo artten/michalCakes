@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/michalCakes/static/css/main.9dd646e1.css",
-    "main.js": "/michalCakes/static/js/main.30b53b9a.js",
+    "main.js": "/michalCakes/static/js/main.204a088f.js",
     "static/js/787.ee19134f.chunk.js": "/michalCakes/static/js/787.ee19134f.chunk.js",
-    "static/media/logo.jpeg": "/michalCakes/static/media/logo.cdfa2318f62cc2fed265.jpeg",
+    "static/media/Logov2(2).jpeg": "/michalCakes/static/media/Logov2(2).09c04f974782c33eb53f.jpeg",
     "index.html": "/michalCakes/index.html",
     "main.9dd646e1.css.map": "/michalCakes/static/css/main.9dd646e1.css.map",
-    "main.30b53b9a.js.map": "/michalCakes/static/js/main.30b53b9a.js.map",
+    "main.204a088f.js.map": "/michalCakes/static/js/main.204a088f.js.map",
     "787.ee19134f.chunk.js.map": "/michalCakes/static/js/787.ee19134f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd646e1.css",
-    "static/js/main.30b53b9a.js"
+    "static/js/main.204a088f.js"
   ]
 }
