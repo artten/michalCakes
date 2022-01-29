@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/michalCakes/static/css/main.09d57d19.css",
-    "main.js": "/michalCakes/static/js/main.f2b4891c.js",
+    "main.css": "/michalCakes/static/css/main.3db02c7a.css",
+    "main.js": "/michalCakes/static/js/main.281d607a.js",
     "static/js/787.ee19134f.chunk.js": "/michalCakes/static/js/787.ee19134f.chunk.js",
-    "static/media/Logov2(2).jpeg": "/michalCakes/static/media/Logov2(2).09c04f974782c33eb53f.jpeg",
+    "static/media/logo3.jpeg": "/michalCakes/static/media/logo3.6d5bcad538208ef96c07.jpeg",
     "index.html": "/michalCakes/index.html",
-    "main.09d57d19.css.map": "/michalCakes/static/css/main.09d57d19.css.map",
-    "main.f2b4891c.js.map": "/michalCakes/static/js/main.f2b4891c.js.map",
+    "main.3db02c7a.css.map": "/michalCakes/static/css/main.3db02c7a.css.map",
+    "main.281d607a.js.map": "/michalCakes/static/js/main.281d607a.js.map",
     "787.ee19134f.chunk.js.map": "/michalCakes/static/js/787.ee19134f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09d57d19.css",
-    "static/js/main.f2b4891c.js"
+    "static/css/main.3db02c7a.css",
+    "static/js/main.281d607a.js"
   ]
 }
