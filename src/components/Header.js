@@ -26,7 +26,7 @@ const Header = () => {
     <div>
       {/* <Grid container> */}
       <Grid item xs={12}>
-        <Img style={{"height":"80vh", "width":"50vh"}} src={logo}></Img>
+        <Img className="logo" src={logo}></Img>
       </Grid>
       {/* <Grid container  xs={12} justifyContent="space-evenly" direction="row" alignItems="center"> */}
       <div className="center-navbar">
